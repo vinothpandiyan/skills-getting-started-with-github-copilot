@@ -66,6 +66,12 @@ activities = {
         "participants": ["amelia@mergington.edu", "benjamin@mergington.edu"]
     },
     # Intellectual activities
+    "Accelerate with Copilot": {
+        "description": "Learn how to use GitHub Copilot to accelerate your coding skills",
+        "schedule": "Fridays, 4:00 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["alex@mergington.edu", "sam@mergington.edu"]
+    },
     "Math Olympiad": {
         "description": "Prepare for math competitions and solve challenging problems",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
